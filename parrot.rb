@@ -3,7 +3,7 @@ def parrot(speak="Squawk!")
   return speak
 end
 
-parrot("Pretty bird!")
+parrot()
 
 
 
