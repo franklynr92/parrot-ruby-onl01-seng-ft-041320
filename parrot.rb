@@ -1,6 +1,6 @@
 def parrot(speak)
-  puts action
-  return action
+  puts speak
+  return speak
 end
 
 speak("Squawk!")
