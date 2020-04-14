@@ -1,9 +1,9 @@
-def parrot(speak)
+def parrot(speak="Squawk!")
   puts speak
   return speak
 end
 
-speak("Squawk!")
+speak("Pretty bird!")
 
 
 
