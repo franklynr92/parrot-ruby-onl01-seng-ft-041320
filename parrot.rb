@@ -4,6 +4,6 @@ def parrot(action)
 end
 
 action("Squawk!")
-action("Pretty bird!")
+
 
 
