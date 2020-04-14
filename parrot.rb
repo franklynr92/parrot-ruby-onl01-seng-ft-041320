@@ -1,6 +1,9 @@
-def parrot
-  puts "Squawk!"
-  return "Squawk!"
+def parrot(action)
+  puts action
+  return action
 end
 
-parrot
+action("Squawk!")
+action("Pretty bird!")
+
+
